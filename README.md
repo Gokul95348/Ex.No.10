@@ -2,7 +2,7 @@
 
 **Date:**
 
-**Register No:** 212223230002
+**Register No:** 212222050014
 
 ---
 
@@ -154,39 +154,3 @@ The experiment was successfully performed, and content creation using different 
 By applying structured prompt techniques such as query decomposition, semantic filtering, and decision making, AI models like ChatGPT can generate high-quality content tailored to specific needs. This demonstrates the power of prompt engineering in guiding AI-generated reports, articles, case studies, and creative works.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
